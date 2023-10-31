@@ -1,0 +1,168 @@
+ 
+ 
+ 
+ 
+ .card{
+    width: 288px;
+    height: 180px;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 15px;
+    
+    
+   
+    
+    
+
+}
+
+.card2{background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 20px rgb(4, 158, 37);
+    border-radius: 20px;
+    text-align:center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(24, 211, 70);
+    perspective: 1000px;
+    
+    
+    
+
+}
+
+.card2:hover{
+    transition: transform 0.5s;
+    transform:rotate3d(1,20,1,40deg);
+    background-color:black ;
+}
+
+.imagem{
+    border-start-start-radius: 20px;
+    border-start-end-radius: 20px;
+    border-bottom: 0px;
+}
+
+
+
+.card22{background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 20px rgb(4, 158, 37);
+    border-radius: 20px;
+    color: green;
+    background: black;
+    width:288px;
+    height: 190px;
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+}
+
+.fundo{
+    width:290px;
+    height: 500px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px purple;
+    
+
+background-color: rgb(55, 20, 153);
+
+}
+
+
+
+.rickmorty{
+    margin:0;
+    width:290px;
+    height: 250px;
+    border-start-end-radius: 20px;
+    border-start-start-radius: 20px;
+
+
+
+}
+
+    
+.texto{
+    flex: 1; /* Distribui o espaço igualmente entre as colunas */
+  padding: 50px; /* Adicione preenchimento para o espaçamento entre as colunas */
+  box-shadow: 2px 2px 20px grey;
+  background-color: rgb(240, 230, 230);
+  margin-left: 70px;
+  font-size: larger;
+}
+
+.body1{
+    width: 100%; /* Define a largura total da tela */
+  display: flex;
+  
+}
+
+.titulo{
+    margin-left: 80px;
+    font-size: large;
+}
+
+.cerebro{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+
+}
+
+.paragrafo1{
+    margin-left: 80px;
+    margin-top: -42px;
+    
+}
+
+
+.persuaçao{
+    width: 50px;
+    height: 50px;
+    margin-left: 22px;
+    margin-top: 20px;
+
+}
+
+.paragrafo2{
+    margin-left: 80px;
+    margin-top: -42px;
+
+}
+
+.musculo{
+    width: 50px;
+    height: 50px;
+    margin-left: 22px;
+    margin-top: 20px;
+
+}
+.paragrafo3{
+    margin-left: 82px;
+    margin-top: -38px;
+
+}
+
+button{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(224, 212, 224);
+    color: rgb(8, 13, 17);
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 312px;
+    
+}
+
+.voltar{font-size: large;
+margin-top: -2px;}
+
+
+
